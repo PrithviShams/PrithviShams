@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a metallurgical engineer by training, taking my baby steps in the world of data science and web programming. 
+
+I'm a voracious reader of long-form journalism, current affairs, history and political science. I will be very happy the day I publish an op-ed in a newspaper of record!
+
 <!--
 **PrithviShams/PrithviShams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
